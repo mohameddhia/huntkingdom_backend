@@ -1,3 +1,8 @@
+recommendation:
+    resource: "@RecommendationBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
