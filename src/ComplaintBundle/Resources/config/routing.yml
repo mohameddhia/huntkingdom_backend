@@ -13,3 +13,18 @@ update_complaint:
 delete_complaint:
     path:     /deleteComplaint/{id}
     defaults: { _controller: ComplaintBundle:Complaint:deleteComplaint }
+add_type:
+    path:     /addType
+    defaults: { _controller: ComplaintBundle:Type:addType }
+get_type:
+    path:     /getById/{id}
+    defaults: { _controller: ComplaintBundle:Type:getTypeById }
+get_all:
+    path:     /getAll
+    defaults: { _controller: ComplaintBundle:Type:getAllTypes }
+update_type:
+    path:     /updateType/{id}
+    defaults: { _controller: ComplaintBundle:Type:updatetype }
+delete_type:
+    path:     /deleteType/{id}
+    defaults: { _controller: ComplaintBundle:Type:deleteType }

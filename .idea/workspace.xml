@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73ec863d-460c-4021-b59e-82dfd5a82a9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Composer_10_07_2020_11_29_c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Symfony_10_07_2020_11_36_s.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/huntkingdom_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/huntkingdom_backend.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/AppKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/AppKernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/routing.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/symfony_requirements" beforeDir="false" afterPath="$PROJECT_DIR$/bin/symfony_requirements" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/SymfonyRequirements.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/SymfonyRequirements.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComplaintBundle/Entity/Type.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComplaintBundle/Entity/Type.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComplaintBundle/Resources/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComplaintBundle/Resources/config/routing.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,10 +103,10 @@
       <command value="s generate:bundle" />
       <command value="s doctrine:generate:entity" />
       <command value="s doctrine:schema:update " />
-      <command value="s generate:controller" />
-      <command value="s server:run" />
       <command value="c dump-autoload" />
       <command value="s doctrine:schema:update --force" />
+      <command value="s generate:controller" />
+      <command value="s server:run" />
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -137,11 +127,15 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1594384016038">
+    <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1594402105209">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594384016038" />
-    <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736@0.0.1366.736" timestamp="1594379776848" />
+    <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736@0.0.1366.736" timestamp="1594402105209" />
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1594401751768">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.736@0.0.1366.736" timestamp="1594401751768" />
     <state x="448" y="230" key="#com.jetbrains.php.framework.ui.FailedToParseDialog" timestamp="1594376983984">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -162,26 +156,26 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="538" y="256" key="FrameworkEditDialogDimensionKey/0.0.1366.736@0.0.1366.736" timestamp="1594377786561" />
-    <state width="1323" height="124" key="GridCell.Tab.0.bottom" timestamp="1594389541774">
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom" timestamp="1594399501101">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.bottom/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
-    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1594380818925" />
-    <state width="1323" height="124" key="GridCell.Tab.0.center" timestamp="1594389541774">
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594392853954" />
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1594399501101" />
+    <state width="1323" height="124" key="GridCell.Tab.0.center" timestamp="1594399501101">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.center/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
-    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1594380818924" />
-    <state width="1323" height="124" key="GridCell.Tab.0.left" timestamp="1594389541774">
+    <state width="1323" height="124" key="GridCell.Tab.0.center/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594392853954" />
+    <state width="1323" height="124" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1594399501101" />
+    <state width="1323" height="124" key="GridCell.Tab.0.left" timestamp="1594399501100">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.left/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
-    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1594380818924" />
-    <state width="1323" height="124" key="GridCell.Tab.0.right" timestamp="1594389541774">
+    <state width="1323" height="124" key="GridCell.Tab.0.left/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594392853953" />
+    <state width="1323" height="124" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1594399501100" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right" timestamp="1594399501101">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.right/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
-    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1594380818924" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594392853954" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1594399501101" />
     <state x="184" y="10" key="SettingsEditor" timestamp="1594377787959">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -190,15 +184,15 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="493" y="270" key="SymfonyPathDialog/0.0.1366.736@0.0.1366.736" timestamp="1594377381165" />
-    <state x="339" y="164" width="672" height="677" key="run.anything.popup" timestamp="1594389541801">
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup" timestamp="1594399501106">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="339" y="164" width="672" height="677" key="run.anything.popup/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541801" />
-    <state x="339" y="164" width="672" height="677" key="run.anything.popup/0.0.1366.736@0.0.1366.736" timestamp="1594380818949" />
-    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1594381296194">
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup/0.0.1366.736@0.0.1366.736" timestamp="1594399501106" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1594393463429">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594381296194" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594393463429" />
     <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1594378761127" />
   </component>
 </project>
