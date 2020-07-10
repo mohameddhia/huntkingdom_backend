@@ -1,0 +1,4 @@
+services:
+#    complaint.example:
+#        class: ComplaintBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

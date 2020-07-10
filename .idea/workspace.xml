@@ -1,39 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73ec863d-460c-4021-b59e-82dfd5a82a9f" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="73ec863d-460c-4021-b59e-82dfd5a82a9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Composer_10_07_2020_11_29_c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Symfony_10_07_2020_11_36_s.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/huntkingdom_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/huntkingdom_backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/AppKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/AppKernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/routing.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/symfony_requirements" beforeDir="false" afterPath="$PROJECT_DIR$/bin/symfony_requirements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/SymfonyRequirements.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/SymfonyRequirements.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/config.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" executionDataType="PHAR" phpInterpreterId="e3b9f2df-dd96-4f2b-8f73-fff95e0e68c4" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <pharPath>$PROJECT_DIR$/composer.phar</pharPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="e3b9f2df-dd96-4f2b-8f73-fff95e0e68c4" />
+    </execution>
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/composer.json" />
-      </list>
-    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -76,50 +86,37 @@
       <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
       <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
       <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/vendor/jms/serializer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/vendor/phpcollection/phpcollection" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="y" value="31" />
-    <option name="width" value="960" />
-    <option name="height" value="1049" />
-  </component>
+  <component name="ProjectId" id="1eUWjM5vC0zzSWpedexRvrbM43T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="huntkingdom_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="huntkingdom_backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="s generate:bundle" />
+      <command value="s doctrine:generate:entity" />
+      <command value="s doctrine:schema:update " />
+      <command value="s generate:controller" />
+      <command value="s server:run" />
+      <command value="c dump-autoload" />
+      <command value="s doctrine:schema:update --force" />
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -136,44 +133,72 @@
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="999000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="31" width="1920" height="1049" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3297062" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1594384016038">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594384016038" />
+    <state x="476" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736@0.0.1366.736" timestamp="1594379776848" />
+    <state x="448" y="230" key="#com.jetbrains.php.framework.ui.FailedToParseDialog" timestamp="1594376983984">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="448" y="230" key="#com.jetbrains.php.framework.ui.FailedToParseDialog/0.0.1366.736@0.0.1366.736" timestamp="1594376983984" />
+    <state x="407" y="246" key="ComposerCompositePathDialog" timestamp="1594376994796">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="407" y="246" key="ComposerCompositePathDialog/0.0.1366.736@0.0.1366.736" timestamp="1594376994796" />
+    <state x="459" y="252" width="447" height="261" key="ComposerInitDialogKey" timestamp="1594378399398">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="459" y="252" width="447" height="261" key="ComposerInitDialogKey/0.0.1366.736@0.0.1366.736" timestamp="1594378399398" />
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1594377380226">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1594377380226" />
+    <state x="538" y="256" key="FrameworkEditDialogDimensionKey" timestamp="1594377786561">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="538" y="256" key="FrameworkEditDialogDimensionKey/0.0.1366.736@0.0.1366.736" timestamp="1594377786561" />
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom" timestamp="1594389541774">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1594380818925" />
+    <state width="1323" height="124" key="GridCell.Tab.0.center" timestamp="1594389541774">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.center/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1594380818924" />
+    <state width="1323" height="124" key="GridCell.Tab.0.left" timestamp="1594389541774">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.left/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1594380818924" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right" timestamp="1594389541774">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.right/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541774" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1594380818924" />
+    <state x="184" y="10" key="SettingsEditor" timestamp="1594377787959">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="184" y="10" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1594377787959" />
+    <state x="493" y="270" key="SymfonyPathDialog" timestamp="1594377381165">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="493" y="270" key="SymfonyPathDialog/0.0.1366.736@0.0.1366.736" timestamp="1594377381165" />
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup" timestamp="1594389541801">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594389541801" />
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup/0.0.1366.736@0.0.1366.736" timestamp="1594380818949" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1594381296194">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736/-1920.-130.1920.1050@0.0.1366.736" timestamp="1594381296194" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1594378761127" />
   </component>
 </project>

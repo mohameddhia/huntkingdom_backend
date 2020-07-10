@@ -1,0 +1,15 @@
+add_complaint:
+    path:     /addComplaint/{iduser}/{idType}
+    defaults: { _controller: ComplaintBundle:Complaint:add }
+get_complaint:
+    path:     /getComplaint/{id}
+    defaults: { _controller: ComplaintBundle:Complaint:getComplaintById }
+get_complaints:
+    path:     /getComplaints
+    defaults: { _controller: ComplaintBundle:Complaint:getComplaints }
+update_complaint:
+    path:     /updateComplaint/{id}
+    defaults: { _controller: ComplaintBundle:Complaint:updateComplaint }
+delete_complaint:
+    path:     /deleteComplaint/{id}
+    defaults: { _controller: ComplaintBundle:Complaint:deleteComplaint }
