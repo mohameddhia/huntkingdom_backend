@@ -1,5 +1,8 @@
 complaint:
     resource: "@ComplaintBundle/Resources/config/routing.yml"
+recommendation:
+    resource: "@RecommendationBundle/Controller/"
+    type:     annotation
     prefix:   /
 
 app:
